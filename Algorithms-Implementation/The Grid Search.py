@@ -1,7 +1,7 @@
 #!/bin/python3
 
 import sys
-# a solution by using brute force algorit
+# a solution by using brute force algorithm
 def subcheck(ix,iy,r,c,G,P):
     for jx in range(r):
         for jy in range(c):
